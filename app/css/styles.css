@@ -1,0 +1,25 @@
+
+.container {
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .img-container {
+}
+
+.container .img-container img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.container ul {
+  font-size: 40px;
+  text-align: left;
+}
+
+.container li {
+  list-style-type: none;
+}
